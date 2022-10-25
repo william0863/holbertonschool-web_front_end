@@ -1,4 +1,5 @@
 # Advanced CSS
+![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/12/ce6718f1b55e6c1580c6.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20221025%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221025T121310Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=139ce8d4fbb3def160a8889c643dc4cc3375fb7a09cadf31d81d6604a2a7c8d7)
 
 ## Learning Objectives
 ### General
