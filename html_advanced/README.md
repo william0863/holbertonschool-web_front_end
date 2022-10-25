@@ -1,4 +1,5 @@
 # Advanced HTML
+![](https://www.digitalclassworld.com/blog/wp-content/uploads/2021/02/html.jpg)
 
 ## Learning Objectives
 ### General
